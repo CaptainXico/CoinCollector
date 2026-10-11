@@ -1,2 +1,2 @@
 # CoinCollector
-HAppy halloween
+Happy halloween
